@@ -1,6 +1,6 @@
 # Expense Tracker (MERN)
 
-> Full stack expense tracker
+> Full stack expense tracker using hooks and context api
 
 ## Usage
 
