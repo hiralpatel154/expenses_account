@@ -6,6 +6,11 @@
 
 ```
 change config.env file in config folder
+
+NODE_ENV=production
+PORT=5000
+MONGO_URI=Your database url
+
 ```
 
 ```
