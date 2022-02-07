@@ -1,6 +1,6 @@
 # Expense Tracker (MERN)
 
-> Full stack expense tracker using react hooks and context api
+> Full stack expense tracker using react hooks, context api & mern
 
 ## Usage
 
